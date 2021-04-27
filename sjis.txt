@@ -1,1 +1,1 @@
-sjis file
+sjis file test
